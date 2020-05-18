@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend"
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\components\\template",
+    "\\frontend\\src\\app\\components\\template\\header"
   ],
-  "SelectedNode": "\\backend\\db.json",
+  "SelectedNode": "\\frontend\\src\\app\\components\\template\\header\\header.component.html",
   "PreviewInSolutionExplorer": false
 }
