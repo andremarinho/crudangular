@@ -8,8 +8,9 @@
     "\\frontend\\src\\app\\components",
     "\\frontend\\src\\app\\components\\template",
     "\\frontend\\src\\app\\components\\template\\footer",
-    "\\frontend\\src\\app\\components\\template\\header"
+    "\\frontend\\src\\app\\components\\template\\header",
+    "\\frontend\\src\\app\\components\\template\\nav"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\components\\template\\footer\\footer.component.css",
+  "SelectedNode": "\\frontend\\src\\app\\components\\template\\nav\\nav.component.html",
   "PreviewInSolutionExplorer": false
 }
