@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend",
     "\\frontend",
     "\\frontend\\src",
     "\\frontend\\src\\app",
     "\\frontend\\src\\app\\components",
     "\\frontend\\src\\app\\components\\template",
-    "\\frontend\\src\\app\\components\\template\\footer",
     "\\frontend\\src\\app\\components\\template\\header",
-    "\\frontend\\src\\app\\components\\template\\nav"
+    "\\frontend\\src\\app\\components\\template\\nav",
+    "\\frontend\\src\\app\\views",
+    "\\frontend\\src\\app\\views\\home"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\components\\template\\nav\\nav.component.html",
+  "SelectedNode": "\\frontend\\src\\app\\views\\home\\home.component.css",
   "PreviewInSolutionExplorer": false
 }
