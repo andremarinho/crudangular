@@ -6,11 +6,10 @@
     "\\frontend\\src\\app",
     "\\frontend\\src\\app\\components",
     "\\frontend\\src\\app\\components\\template",
-    "\\frontend\\src\\app\\components\\template\\header",
     "\\frontend\\src\\app\\components\\template\\nav",
     "\\frontend\\src\\app\\views",
-    "\\frontend\\src\\app\\views\\home"
+    "\\frontend\\src\\app\\views\\product-crud"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\views\\home\\home.component.css",
+  "SelectedNode": "\\frontend\\src\\styles.css",
   "PreviewInSolutionExplorer": false
 }
