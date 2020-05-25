@@ -15,6 +15,9 @@ import {MatListModule} from '@angular/material/list';
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { UsersComponent } from './views/users/users.component';
+import { ProductsCreateComponent } from './components/products/products-create/products-create.component';
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
+import { MatButtonModule } from '@angular/material/button';
 
 
 
@@ -26,7 +29,9 @@ import { UsersComponent } from './views/users/users.component';
     NavComponent,
     HomeComponent,
     ProductCrudComponent,
-    UsersComponent
+    UsersComponent,
+    ProductsCreateComponent,
+    ProductReadComponent
    
     
   ],
@@ -37,7 +42,8 @@ import { UsersComponent } from './views/users/users.component';
     MatToolbarModule,
     MatSidenavModule,
     MatListModule,
-    MatCardModule
+    MatCardModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
