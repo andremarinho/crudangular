@@ -18,6 +18,8 @@ import { UsersComponent } from './views/users/users.component';
 import { ProductsCreateComponent } from './components/products/products-create/products-create.component';
 import { ProductReadComponent } from './components/product/product-read/product-read.component';
 import { MatButtonModule } from '@angular/material/button';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+
 
 
 
@@ -43,7 +45,8 @@ import { MatButtonModule } from '@angular/material/button';
     MatSidenavModule,
     MatListModule,
     MatCardModule,
-    MatButtonModule
+    MatButtonModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]

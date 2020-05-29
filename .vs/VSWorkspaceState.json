@@ -7,10 +7,10 @@
     "\\frontend\\src\\app\\components",
     "\\frontend\\src\\app\\components\\product",
     "\\frontend\\src\\app\\components\\products",
-    "\\frontend\\src\\app\\components\\product\\product-read",
-    "\\frontend\\src\\app\\components\\template",
-    "\\frontend\\src\\app\\components\\template\\nav"
+    "\\frontend\\src\\app\\components\\products\\products-create",
+    "\\frontend\\src\\app\\views",
+    "\\frontend\\src\\app\\views\\product-crud"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\components\\products\\product.service.ts",
+  "SelectedNode": "\\frontend\\src\\app\\components\\product\\product.service.ts",
   "PreviewInSolutionExplorer": false
 }
