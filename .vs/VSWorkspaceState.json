@@ -11,6 +11,6 @@
     "\\frontend\\src\\app\\views",
     "\\frontend\\src\\app\\views\\product-crud"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\components\\product\\product.service.ts",
+  "SelectedNode": "\\frontend\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
